@@ -1,6 +1,6 @@
 # Gold Layer Datalake Persistence Lambda
 
-> The purpose of this project is to prepare an study environment.
+> The purpose of this project is to prepare a study environment.
 
 This project gives you an **AWS Lambda** function in manual execution mode to get unstructured data from AWS S3 Silver Layer bucket, apply tranformations
 and persist the structured data on AWS S3 Gold Layer bucket.
